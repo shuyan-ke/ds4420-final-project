@@ -40,5 +40,3 @@ Dataset prepared for time series analysis.
 
 **ev_cleaned_for_bayesian.csv**  
 Dataset prepared for Bayesian regression modeling.
-
-```
